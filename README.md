@@ -1,6 +1,8 @@
 # Hi, I'm Hiba! ✨
-<br>👩‍💻 I'm a Computer Science student from India with a growing interest in Cybersecurity and Software Development.<br><br>🔐 Aspiring Cybersecurity Professional  <br>🌱 Currently learning Python, Networking, Linux, and Cybersecurity  <br>🎓 Pursuing my Master's in Cybersecurity in Malaysia <br><br>
-
+<br>👩‍💻 I'm a Computer Science student from India with a growing interest in Cybersecurity and Software Development. <br>
+<br>🔐 Aspiring Cybersecurity Professional. <br>
+<br>🌱 Currently learning Python, Networking, Linux, and Cybersecurity. <br>
+<br>🎓 Pursuing my Master's in Cybersecurity in Malaysia. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hix.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiba-abdul-tech) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hixarchive) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hibabdul2005@gmail.com) 
