@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Hiba! ✨<br>I'm a Computer Science student from India with a growing interest in Cybersecurity and Software Development.<br><br>🔐 Aspiring Cybersecurity Professional  <br>🌱 Currently learning Python, Networking, Linux, and Cybersecurity  <br>🎯 Planning to pursue a Master's in Cybersecurity abroad<br><br>
+# Hi, I'm Hiba! ✨
+<br>👩‍💻 I'm a Computer Science student from India with a growing interest in Cybersecurity and Software Development.<br><br>🔐 Aspiring Cybersecurity Professional  <br>🌱 Currently learning Python, Networking, Linux, and Cybersecurity  <br>🎓 Pursuing my Master's in Cybersecurity in Malaysia <br><br>
 
 
 ## 🌐 Socials:
